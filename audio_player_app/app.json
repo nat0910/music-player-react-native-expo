@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "audio_player_app",
+    "slug": "audio_player_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.nikhil091002.audio_player_app"
+    }
+  }
+}

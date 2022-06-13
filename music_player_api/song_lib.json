@@ -1,0 +1,83 @@
+[
+  {
+    "id": "869020f3-eca3-4c60-9d23-6902be023bb8",
+    "album_name": "Nirvana-Nevermind",
+    "artist_name": "Nirvana",
+    "song_title": "Come as you are",
+    "img_url": "http://192.168.159.4:5000/images/869020f3-eca3-4c60-9d23-6902be023bb8",
+    "music_url": "http://192.168.159.4:5000/music/869020f3-eca3-4c60-9d23-6902be023bb8"
+  },
+  {
+    "id": "c25f240e-f8ac-4a88-b5f6-e38746a8862",
+    "album_name": "Native",
+    "artist_name": "OneRepublic",
+    "song_title": "Counting Stars",
+    "img_url": "http://192.168.159.4:5000/images/c25f240e-f8ac-4a88-b5f6-e38746a88102",
+    "music_url": "http://192.168.159.4:5000/music/c25f240e-f8ac-4a88-b5f6-e38746a88102"
+  },
+  {
+    "id": "028a15a9-64d2-4f5f-9dc0-c1f562781a51",
+    "album_name": "After Hours",
+    "artist_name": "The Weeknd",
+    "song_title": "Blinding Lights",
+    "img_url": "http://192.168.159.4:5000/images/028a15a9-64d2-4f5f-9dc0-c1f562781a51",
+    "music_url": "http://192.168.159.4:5000/music/028a15a9-64d2-4f5f-9dc0-c1f562781a51"
+  },
+  {
+    "id": "5e0301bf-23a4-4b78-bc0e-882a6d7500e5",
+    "album_name": "the single plus",
+    "artist_name": "The Animals",
+    "song_title": "House of rising sun",
+    "img_url": "http://192.168.159.4:5000/images/5e0301bf-23a4-4b78-bc0e-882a6d7500e5",
+    "music_url": "http://192.168.159.4:5000/music/5e0301bf-23a4-4b78-bc0e-882a6d7500e5"
+  },
+
+  {
+    "id": "16ce65e3-56da-41c2-a3c4-7b150b68775b",
+    "album_name": "Encore",
+    "artist_name": "Eminem",
+    "song_title": "MockingBird",
+    "img_url": "http://192.168.159.4:5000/images/16ce65e3-56da-41c2-a3c4-7b150b68775b",
+    "music_url": "http://192.168.159.4:5000/music/16ce65e3-56da-41c2-a3c4-7b150b68775b"
+  },
+  {
+    "id": "ff65ad29-0621-404f-91e5-5d4f304f8e21",
+    "album_name": "Origin",
+    "artist_name": "Imagine Dragons",
+    "song_title": "Natural",
+    "img_url": "http://192.168.159.4:5000/images/ff65ad29-0621-404f-91e5-5d4f304f8e21",
+    "music_url": "http://192.168.159.4:5000/music/ff65ad29-0621-404f-91e5-5d4f304f8e21"
+  },
+  {
+    "id": "a8315f21-998a-4bac-9f0e-90079108e61c",
+    "album_name": "Singles",
+    "artist_name": "Moroon 5,Christina Aguilera",
+    "song_title": "Moves Like Jagger",
+    "img_url": "http://192.168.159.4:5000/images/a8315f21-998a-4bac-9f0e-90079108e61c",
+    "music_url": "http://192.168.159.4:5000/music/a8315f21-998a-4bac-9f0e-90079108e61c"
+  },
+  {
+    "id": "eeea1069-6733-499a-9ee9-b227535e6c9e",
+    "album_name": null,
+    "artist_name": "Azazal , Said",
+    "song_title": "I said meow",
+    "img_url": "http://192.168.159.4:5000/images/eeea1069-6733-499a-9ee9-b227535e6c9e",
+    "music_url": "http://192.168.159.4:5000/music/eeea1069-6733-499a-9ee9-b227535e6c9e"
+  },
+  {
+    "id": "f23cdb9a-3e7c-420e-a5b3-955f7068822d",
+    "album_name": "a night at the opera",
+    "artist_name": "Queen",
+    "song_title": "bohemian rhapsody",
+    "img_url": "http://192.168.159.4:5000/images/f23cdb9a-3e7c-420e-a5b3-955f7068822d",
+    "music_url": "http://192.168.159.4:5000/music/f23cdb9a-3e7c-420e-a5b3-955f7068822d"
+  },
+  {
+    "id": "3cfae664-eacd-40fe-b253-4b27dd89c57b",
+    "album_name": "Ladies ",
+    "artist_name": "George Michael",
+    "song_title": "Careless Whisper",
+    "img_url": "http://192.168.159.4:5000/images/3cfae664-eacd-40fe-b253-4b27dd89c57b",
+    "music_url": "http://192.168.159.4:5000/music/3cfae664-eacd-40fe-b253-4b27dd89c57b"
+  }
+]

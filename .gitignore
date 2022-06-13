@@ -1,0 +1,4 @@
+/music_player_api/venv
+/music_player_api/__pycache__
+.expo
+node_modules
